@@ -1,10 +1,9 @@
 # SMS-Bomber
-Created using PHP.
+<b>(NOT USEFUL NOW)</b>
 
 To run this file or any PHP file, follow this guide:
 
-http://www.tutorialspoint.com/articles/run-a-php-program-in-xampp-server
+https://www.simplilearn.com/tutorials/php-tutorial/php-using-xampp
 
-(NOT USEFUL NOW - Reason : OPENS MULTIPLE TABS)
+![Screenshot 2022-12-03 174523](https://user-images.githubusercontent.com/46349391/205440552-8ca7afbd-3118-406a-b4fe-0ba7f63c6eae.png)
 
-[USE SMS-BOMBER.py INSTEAD]
